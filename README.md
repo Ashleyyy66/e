@@ -1,6 +1,10 @@
 # Echo Classification Using Unsupervised Learning
-## Overview
-### Methods Used
+## Overview([Bishop, 2006](https://example.com))
+## Methods Used
+- K-Means Clustering
+- Gaussian Mixture Models (GMM)
+- Confusion Matrix Evaluation
+
 
 
 
