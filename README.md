@@ -1,9 +1,9 @@
 # Echo Classification Using Unsupervised Learning
 This project aims at classifying sea ice and lead using Sentinel-3 data altimetry data. The echo classification will be quantified against the ESA official classification using a confusion matrix. The mean unsupervised classification methods used in this projects are K-means and Gaussian Mixture Models (GMM) clustering.
-## Introduction to Unsupervised Learning Methods ([Bishop, 2006](https://example.com)) Christopher M Bishop and Nasser M Nasrabadi. Pattern recognition and machine learning. Volume 4. Springer, 2006.
+## Introduction to Unsupervised Learning Methods ([Bishop, 2006]) Christopher M Bishop and Nasser M Nasrabadi. Pattern recognition and machine learning. Volume 4. Springer, 2006.
 
 ### K-Means Clustering
-K-means clustering is a type of unsupervised learning algorithm used for partitioning a dataset into a set of k groups (or clusters), where k represents the number of groups pre-specified by the analyst. It classifies the data points based on the similarity of the features of the data ([MacQueen and others, 1967])James MacQueen and others. Some methods for classification and analysis of multivariate observations. In Proceedings of the fifth Berkeley symposium on mathematical statistics and probability, volume 1, 281–297. Oakland, CA, USA, 1967.. The basic idea is to define k centroids, one for each cluster, and then assign each data point to the nearest centroid, while keeping the centroids as small as possible.
+K-means clustering is a type of unsupervised learning algorithm used for partitioning a dataset into a set of k groups (or clusters), where k represents the number of groups pre-specified by the analyst. It classifies the data points based on the similarity of the features of the data ([MacQueen and others, 1967]). The basic idea is to define k centroids, one for each cluster, and then assign each data point to the nearest centroid, while keeping the centroids as small as possible.
 #### Why K-means for Clustering?
 K-means clustering is particularly well-suited for applications where:
 
@@ -69,6 +69,11 @@ This process is repeated until convergence, meaning the parameters do not signif
 
 
 ## Contact
+
+**Boxuan Li** - [zcqsbli@ucl.ac.uk](mailto:zcfbabi@ucl.ac.uk) / [ashleyyyy6615@gmail.com](mailto:ashleyyyy6615@gmail.com)
+
+**Project Link:** [https://github.com/Ashleyyy66/e]([(https://github.com/Ashleyyy66/e)])
+
 
 ## Acknowledgments
 This project is Week4 assignment for module GEOL0069 in Earth Sciences department of UCL.
