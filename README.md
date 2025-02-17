@@ -1,3 +1,5 @@
+![hi](RF_image2_sample3_22075867.png)
+
 # Echo Classification Using Unsupervised Learning
 This project aims at classifying sea ice and lead using Sentinel-3 data altimetry data. The echo classification will be quantified against the ESA official classification using a confusion matrix. The mean unsupervised classification methods used in this projects are K-means and Gaussian Mixture Models (GMM) clustering.
 ## Introduction to Unsupervised Learning Methods ([Bishop, 2006])
@@ -76,8 +78,6 @@ from google.colab import drive # Mount to your own google drive
 drive.mount('/content/drive')
 ```
 
-## Full code
-[https://github.com/Ashleyyy66/e/Chapter1_Unsupervised_Learning_Methods.ipynb](https://github.com/Ashleyyy66/e/Chapter1_Unsupervised_Learning_Methods.ipynb)
 
 ## Contact
 
@@ -89,12 +89,4 @@ drive.mount('/content/drive')
 ## Acknowledgments
 This project is Week4 assignment for module GEOL0069 in Earth Sciences department of UCL.
 
-Here is my image:
 
-
-
-
-
-![hi](RF_image2_sample3_22075867.png)
-
-Isn’t it amazing?
