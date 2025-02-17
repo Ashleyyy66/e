@@ -1,4 +1,4 @@
-![hi](RF_image2_sample3_22075867.png)
+![hi](ViT_image2_sample1_22075867.png)
 
 # Echo Classification Using Unsupervised Learning
 This project aims at classifying sea ice and lead using Sentinel-3 data altimetry data. The echo classification will be quantified against the ESA official classification using a confusion matrix. The mean unsupervised classification methods used in this projects are K-means and Gaussian Mixture Models (GMM) clustering.
