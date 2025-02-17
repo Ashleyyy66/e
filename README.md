@@ -76,6 +76,8 @@ from google.colab import drive # Mount to your own google drive
 drive.mount('/content/drive')
 ```
 
+## Full code
+[https://github.com/Ashleyyy66/e/Chapter1_Unsupervised_Learning_Methods.ipynb](https://github.com/Ashleyyy66/e/Chapter1_Unsupervised_Learning_Methods.ipynb)
 
 ## Contact
 
