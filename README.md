@@ -72,7 +72,7 @@ This process is repeated until convergence, meaning the parameters do not signif
 
 **Boxuan Li** - [zcqsbli@ucl.ac.uk](mailto:zcfbabi@ucl.ac.uk) / [ashleyyyy6615@gmail.com](mailto:ashleyyyy6615@gmail.com)
 
-**Project Link:** [https://github.com/Ashleyyy66/e]([(https://github.com/Ashleyyy66/e)])
+**Project Link:** [https://github.com/Ashleyyy66/e](https://github.com/Ashleyyy66/e)
 
 
 ## Acknowledgments
